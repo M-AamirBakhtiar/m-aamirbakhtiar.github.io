@@ -2,7 +2,6 @@ import { motion } from 'framer-motion';
 
 import { HeroSection, Hide } from '../styles';
 import { titleAnimation, fade } from '../animation';
-import Wave from './Wave';
 const Hero = () => {
   return (
     <HeroSection>
